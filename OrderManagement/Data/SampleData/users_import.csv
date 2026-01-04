@@ -1,0 +1,6 @@
+Name,Email,BonusPoints,Role
+Pavel Novotny,pavel@example.com,100.00,Customer
+Eva Kralova,eva@example.com,50.50,Customer
+Martin Svoboda,martin@example.com,200.00,Customer
+Jana Prochazkova,jana@example.com,75.25,Customer
+Tomas Admin,tomas@example.com,0.00,Admin
